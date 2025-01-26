@@ -1,7 +1,3 @@
-# Creating a Virtual Machine || [GSP001](https://www.cloudskillsboost.google/focuses/3563?parent=catalog) ||
-
-## Solution [here](https://youtu.be/3wUSkRhedag)
-
 ### Run the following Commands in CloudShell
 
 ```
@@ -17,7 +13,3 @@ sudo chmod +x gsp001.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
